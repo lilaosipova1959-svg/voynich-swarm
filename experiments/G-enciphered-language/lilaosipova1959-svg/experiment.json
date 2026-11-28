@@ -1,0 +1,7 @@
+{
+  "step": "G-enciphered-language",
+  "handle": "lilaosipova1959-svg",
+  "kind": "attack",
+  "summary": "Latin text encrypted with Naibbe-like homophone substitution cipher, tested against all 27 established facts to see which it reproduces and which it misses.",
+  "lease": "ba88a5a5d9d5599288c85e12"
+}
